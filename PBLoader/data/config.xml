@@ -1,0 +1,31 @@
+<XML>
+  <IP>10.0.1.8/images/</IP>
+  <URL>http://www.facebook.com/200387629972541</URL>
+  <PORT>2838</PORT>
+  <IDLE>60</IDLE>
+  <SCREENSAVER></SCREENSAVER>
+  <LOGGER>
+    <X>100</X>
+    <Y>0</Y>
+  </LOGGER>
+  <debugMode>true</debugMode>
+  <alwaysOnTop>false</alwaysOnTop>
+  <FullScreen>true</FullScreen>
+  <hideMouse>false</hideMouse>
+  <startX>0</startX>
+  <startY>0</startY>
+  <startW>1920</startW>
+  <startH>1080</startH>
+  <SOUND>./data/b4.mp3</SOUND>
+  <SOUND>./data/b4.mp3</SOUND>
+  <MASK>
+    <X>206</X>
+    <Y>49</Y>
+    <WIDTH>410</WIDTH>
+    <HEIGHT>41</HEIGHT>
+  </MASK>
+  <HTML>
+    <X>800</X>
+    <Y>500</Y>
+  </HTML>
+</XML>
