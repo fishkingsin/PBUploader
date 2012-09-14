@@ -1,1 +1,0 @@
-﻿package {	import flash.display.*;	public class CoverTest extends MovieClip	{				public function CoverTest()		{			//addChild(new SelectPhoto());		}	}}
