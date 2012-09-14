@@ -24,7 +24,7 @@
 	</BUTTON>
 </PAGE>-->
 <ALL_PAGES>
-	<PAGE name="home">
+<!--	<PAGE name="home">
 		<BACKGROUND>
 			<IMAGES>
 				<FILE>./data/images/background/z2_0.jpg</FILE>
@@ -51,14 +51,14 @@
 			<NEXT_PAGE>login</NEXT_PAGE>
 			<MESSAGE></MESSAGE>
 		</BUTTON>
-	</PAGE>
-	<PAGE name="login">
+	</PAGE>-->
+	<PAGE name="home">
 		<BACKGROUND>
 			<IMAGES>
 				<FILE>./data/images/background/z2_1.jpg</FILE>
 			</IMAGES>
 		</BACKGROUND>
-		<BUTTON name="btn_login">
+		<BUTTON name="btn_enter">
 			<SKIP_VIDEO>0</SKIP_VIDEO>
 			<SHOW_LABLE>0</SHOW_LABLE><X>697.5</X><Y>295</Y>
 			<IMAGES>
@@ -71,10 +71,10 @@
 			<FILES>
 				<CHIT></CHIT>
 			</FILES>
-			<NEXT_PAGE>selectphoto</NEXT_PAGE>
+			<NEXT_PAGE>home</NEXT_PAGE>
 			<MESSAGE></MESSAGE>
 		</BUTTON>
-		<BUTTON name="btn_home">
+<!--		<BUTTON name="btn_home">
 			<SKIP_VIDEO>0</SKIP_VIDEO>
 			<SHOW_LABLE>0</SHOW_LABLE><X>0</X><Y>666</Y>
 			<IMAGES>
@@ -89,7 +89,7 @@
 			</FILES>
 			<NEXT_PAGE>home</NEXT_PAGE>
 			<MESSAGE></MESSAGE>
-		</BUTTON>
+		</BUTTON>-->
 	</PAGE>
 	<PAGE name="selectphoto">
 		<BACKGROUND name="covers">
@@ -97,6 +97,22 @@
 				<FILE>./SelectPhoto.swf</FILE>
 			</IMAGES>
 		</BACKGROUND>
+		<BUTTON name="btn_login">
+			<SKIP_VIDEO>0</SKIP_VIDEO>
+			<SHOW_LABLE>0</SHOW_LABLE><X>-1696</X><Y>479</Y>
+			<IMAGES>
+				<FILE>./data/images/button_285x121.png</FILE>
+				<FILE>./data/images/button_285x121.png</FILE>
+			</IMAGES>
+			<CAPTION>
+				<CHIT>undefined</CHIT>
+			</CAPTION>
+			<FILES>
+				<CHIT></CHIT>
+			</FILES>
+			<NEXT_PAGE></NEXT_PAGE>
+			<MESSAGE></MESSAGE>
+		</BUTTON>
 		<BUTTON name="btn_upload">
 			<SKIP_VIDEO>0</SKIP_VIDEO>
 			<SHOW_LABLE>0</SHOW_LABLE><X>-1696</X><Y>479</Y>

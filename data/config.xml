@@ -1,8 +1,8 @@
 <XML>
   <DEBUG>1</DEBUG>
   <CAPTION>uploaded by James Kong</CAPTION>
-  <IP>10.0.1.8/images/</IP>
-  <URL>http://www.facebook.com/200387629972541</URL>
+  <IP>www.fishkingsin.com/images/</IP>
+  <URL>http://www.facebook.com/GrandCenturyPlace</URL>
   <PORT>2838</PORT>
   <IDLE>60</IDLE>
   <SCREENSAVER></SCREENSAVER>
@@ -21,10 +21,11 @@
   <SOUND>./data/b4.mp3</SOUND>
   <SOUND>./data/b4.mp3</SOUND>
   <MASK>
-    <X>206</X>
-    <Y>49</Y>
-    <WIDTH>410</WIDTH>
-    <HEIGHT>41</HEIGHT>
+  <!--734,368, 61,26-->
+    <X>734</X>
+    <Y>368</Y>
+    <WIDTH>61</WIDTH>
+    <HEIGHT>26</HEIGHT>
   </MASK>
   <HTML>
     <X>550</X>
